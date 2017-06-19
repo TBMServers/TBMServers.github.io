@@ -1,9 +1,19 @@
 h1 {
   text-align: center;
   font-size: 100px;
-  background-image:url(src="http://more-sky.com/WDF-337502.html");
+  background-image:(src="");
+  color: white;
+  background-color: black;
+  background-size: cover;
 }
 h2{
   text-align: center;
   color: blue;
+}
+nav{
+  text-align: center;
+  background-color: black;
+  font: courier;
+  font-size: 25px;
+  background-size: cover;
 }
